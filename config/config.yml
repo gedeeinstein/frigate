@@ -117,11 +117,7 @@ camera_groups:
       - mwc_01
       - mwc_02
       - mwc_03
-
-# ─────────────────────────────────────────────────────────────────────────────
-# Cameras
-# Format: sub-stream for detect (low-res), main-stream for record (high-res)
-# ─────────────────────────────────────────────────────────────────────────────
+    icon: LuActivity
 cameras:
 
   # ── 1st Floor / Plating & Production ────────────────────────────────────────

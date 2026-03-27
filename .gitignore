@@ -7,7 +7,7 @@ debug
 .mcp.json
 .vscode/*
 !.vscode/launch.json
-config/*
+# config/*
 !config/*.example
 models
 *.mp4

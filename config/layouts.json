@@ -1,0 +1,321 @@
+﻿{
+  "layout": [
+    {
+      "rectangles": [
+        {
+          "index": 1,
+          "mode": "grid",
+          "coordinates": "0,0,50,50",
+          "interval": 4,
+          "optimiseAR": 1.778,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 2,
+          "mode": "grid",
+          "coordinates": "0,50,50,45",
+          "interval": 4,
+          "optimiseAR": 1.778,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 3,
+          "mode": "grid",
+          "coordinates": "50,0,50,50",
+          "interval": 3,
+          "optimiseAR": 1.778,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 4,
+          "mode": "grid",
+          "coordinates": "50,50,50,45",
+          "interval": 3,
+          "optimiseAR": 1.778,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        }
+      ],
+      "name": "4-Grid",
+      "main": -1,
+      "ident": "ffdc18ed-a6dc-4f56-a7ac-2c491309c4ca",
+      "userident": ""
+    },
+    {
+      "rectangles": [
+        {
+          "index": 1,
+          "mode": "interval",
+          "coordinates": "0,0,30,35",
+          "interval": 4,
+          "optimiseAR": 1.778,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 2,
+          "mode": "interval",
+          "coordinates": "0,35,30,30",
+          "interval": 5,
+          "optimiseAR": 1.778,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 3,
+          "mode": "interval",
+          "coordinates": "0,65,30,35",
+          "interval": 5,
+          "optimiseAR": 1.778,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 4,
+          "mode": "grid",
+          "coordinates": "30,0,70,100",
+          "interval": 4,
+          "optimiseAR": 1.778,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        }
+      ],
+      "name": "Column + Grid",
+      "main": 1,
+      "ident": "a1bcf9fa-8881-4036-92c0-54062b9aecbc",
+      "userident": ""
+    },
+    {
+      "rectangles": [
+        {
+          "index": 4,
+          "mode": "grid",
+          "coordinates": "50,50,50,50",
+          "interval": 3,
+          "optimiseAR": 1.778,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 3,
+          "mode": "grid",
+          "coordinates": "50,0,50,50",
+          "interval": 3,
+          "optimiseAR": 1.778,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 1,
+          "mode": "grid",
+          "coordinates": "0,0,50,50",
+          "interval": 3,
+          "optimiseAR": 1.778,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 2,
+          "mode": "grid",
+          "coordinates": "0,50,50,50",
+          "interval": 3,
+          "optimiseAR": 1.778,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        }
+      ],
+      "name": "MobileAppsViews",
+      "main": -1,
+      "ident": "1c711818-b6e9-4c2d-8873-3b356208a328",
+      "userident": ""
+    },
+    {
+      "rectangles": [
+        {
+          "index": 3,
+          "mode": "grid",
+          "coordinates": "0,50,50,50",
+          "interval": 3,
+          "optimiseAR": 1.333,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 1,
+          "mode": "grid",
+          "coordinates": "0,0,50,50",
+          "interval": 12,
+          "optimiseAR": 1.333,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 2,
+          "mode": "grid",
+          "coordinates": "50,0,50,50",
+          "interval": 3,
+          "optimiseAR": 1.333,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 4,
+          "mode": "grid",
+          "coordinates": "50,50,50,50",
+          "interval": 18,
+          "optimiseAR": 1.333,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        }
+      ],
+      "name": "4GRID",
+      "main": -1,
+      "ident": "5a10939b-cd83-40b2-9a24-a116bd1325b7",
+      "userident": ""
+    },
+    {
+      "rectangles": [
+        {
+          "index": 2,
+          "mode": "grid",
+          "coordinates": "25,0,50,50",
+          "interval": 3,
+          "optimiseAR": 1.333,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 3,
+          "mode": "grid",
+          "coordinates": "25,50,50,50",
+          "interval": 3,
+          "optimiseAR": 1.333,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        }
+      ],
+      "name": "Potrait-Mobile-2",
+      "main": -1,
+      "ident": "3d4ac5ad-8806-41db-9dc3-86fab8e38793",
+      "userident": ""
+    },
+    {
+      "rectangles": [
+        {
+          "index": 1,
+          "mode": "grid",
+          "coordinates": "0,0,100,100",
+          "interval": 3,
+          "optimiseAR": 1.778,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        }
+      ],
+      "name": "SingleGridAll",
+      "main": -1,
+      "ident": "76e047d0-7086-4f59-9d4f-bd735822202f",
+      "userident": ""
+    },
+    {
+      "rectangles": [
+        {
+          "index": 1,
+          "mode": "grid",
+          "coordinates": "0,0,20,20",
+          "interval": 3,
+          "optimiseAR": 1.333,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 2,
+          "mode": "grid",
+          "coordinates": "0,20,20,20",
+          "interval": 3,
+          "optimiseAR": 1.333,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 3,
+          "mode": "grid",
+          "coordinates": "0,40,20,20",
+          "interval": 3,
+          "optimiseAR": 1.333,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 5,
+          "mode": "grid",
+          "coordinates": "0,60,20,20",
+          "interval": 3,
+          "optimiseAR": 1.778,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 9,
+          "mode": "grid",
+          "coordinates": "80,80,20,20",
+          "interval": 3,
+          "optimiseAR": 1.778,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 8,
+          "mode": "grid",
+          "coordinates": "60,80,20,20",
+          "interval": 3,
+          "optimiseAR": 1.778,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 7,
+          "mode": "grid",
+          "coordinates": "40,80,20,20",
+          "interval": 3,
+          "optimiseAR": 1.778,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 6,
+          "mode": "grid",
+          "coordinates": "20,80,20,20",
+          "interval": 3,
+          "optimiseAR": 1.778,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 10,
+          "mode": "grid",
+          "coordinates": "0,80,20,20",
+          "interval": 3,
+          "optimiseAR": 1.778,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        },
+        {
+          "index": 4,
+          "mode": "interval",
+          "coordinates": "20,0,80,80",
+          "interval": 3,
+          "optimiseAR": 1.778,
+          "skipOffline": false,
+          "showDefaultDevice": false
+        }
+      ],
+      "name": "3-CamMain",
+      "main": 4,
+      "ident": "ae4d6346-ac33-4754-a5ac-e20653b15384",
+      "userident": ""
+    }
+  ]
+}

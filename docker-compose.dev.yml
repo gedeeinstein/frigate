@@ -1,0 +1,27 @@
+services:
+  frigate:
+    container_name: frigate-dev
+    image: ghcr.io/blakeblackshear/frigate:stable   # Pre-built image (works on Windows)
+    shm_size: "256mb"
+    restart: unless-stopped
+    ports:
+      - "5000:5000"   # Frigate Web UI
+      - "8554:8554"   # RTSP restream
+      - "8555:8555/tcp"   # WebRTC TCP
+      - "8555:8555/udp"   # WebRTC UDP
+    environment:
+      - FRIGATE_RTSP_PASSWORD=password
+      - TZ=Asia/Makassar
+    volumes:
+      - ./config:/config                     # Frigate config.yml
+      - frigate-media:/media/frigate         # Camera recordings/clips
+
+  mqtt:
+    container_name: frigate-mqtt-dev
+    image: eclipse-mosquitto:2.0
+    command: mosquitto -c /mosquitto-no-auth.conf
+    ports:
+      - "1883:1883"
+
+volumes:
+  frigate-media:
